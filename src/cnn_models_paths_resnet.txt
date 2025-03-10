@@ -1,0 +1,9 @@
+models/ResNet/cnn_sagittal_abnormal_02.pt
+models/ResNet/cnn_coronal_abnormal_06.pt
+models/ResNet/cnn_axial_abnormal_02.pt
+models/ResNet/cnn_sagittal_acl_13.pt
+models/ResNet/cnn_coronal_acl_01.pt
+models/ResNet/cnn_axial_acl_05.pt
+models/ResNet/cnn_sagittal_meniscus_03.pt
+models/ResNet/cnn_coronal_meniscus_03.pt
+models/ResNet/cnn_axial_meniscus_04.pt

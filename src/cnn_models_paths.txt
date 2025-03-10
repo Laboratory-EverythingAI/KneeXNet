@@ -1,0 +1,9 @@
+models\AlexNet\cnn_sagittal_abnormal_06.pt
+models\AlexNet\cnn_coronal_abnormal_08.pt
+models\AlexNet\cnn_axial_abnormal_07.pt
+models\AlexNet\cnn_sagittal_acl_05.pt
+models\AlexNet\cnn_coronal_acl_05.pt
+models\AlexNet\cnn_axial_acl_09.pt
+models\AlexNet\cnn_sagittal_meniscus_07.pt
+models\AlexNet\cnn_coronal_meniscus_06.pt
+models\AlexNet\cnn_axial_meniscus_08.pt

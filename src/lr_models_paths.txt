@@ -1,0 +1,3 @@
+models\AlexNet\lr_abnormal.pkl
+models\AlexNet\lr_acl.pkl
+models\AlexNet\lr_meniscus.pkl

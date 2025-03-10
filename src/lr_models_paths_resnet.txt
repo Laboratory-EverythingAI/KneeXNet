@@ -1,0 +1,3 @@
+models/ResNet/lr_abnormal.pkl
+models/ResNet/lr_acl.pkl
+models/ResNet/lr_meniscus.pkl
